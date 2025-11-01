@@ -9,6 +9,12 @@
 - **Machine Learning & Deep Learning**
 - **Data Analysis**
 
+## 🌟 Notable Projects
+- **Task Scheduling Optimization:** Designed and implemented advanced metaheuristic algorithms to improve efficiency and resource allocation in fog-cloud computing environments.
+- **Metaheuristic Algorithm Enhancement:** Developed customized versions of the Equilibrium Optimizer Algorithm (EO), Gravitational Search Algorithm (GSA), Particle Swarm Optimization (PSO), and Whale Optimization Algorithm (WOA), achieving higher convergence speed and stability.
+- **Disease Detection Using Machine Learning:** Built ML-based models for dental image analysis and disease classification, supporting intelligent healthcare applications.
+- *(More projects and repositories will be added soon!)*
+
 ### 🛠️ Tech Arsenal & Specialties
 - **💻 Programming Languages**
   
@@ -33,13 +39,6 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="50" height="50"/>&nbsp;
-
-## 🌟 Notable Projects
-- **Task Scheduling Optimization:** Designed and implemented advanced metaheuristic algorithms to improve efficiency and resource allocation in fog-cloud computing environments.
-- **Metaheuristic Algorithm Enhancement:** Developed customized versions of the Equilibrium Optimizer Algorithm (EO), Gravitational Search Algorithm (GSA), Particle Swarm Optimization (PSO), and Whale Optimization Algorithm (WOA), achieving higher convergence speed and stability.
-- **Disease Detection Using Machine Learning:** Built ML-based models for dental image analysis and disease classification, supporting intelligent healthcare applications.
-- *(More projects and repositories will be added soon!)*
-
 
 ### 🏅 Achievements & Certifications
 *(To be added later.)*
