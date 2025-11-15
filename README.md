@@ -75,6 +75,19 @@
 
 </div>
 
+### 📱 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](YOUR_TWITTER_URL)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](YOUR_INSTAGRAM_URL)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram)](YOUR_TELEGRAM_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox)](YOUR_WEBSITE_URL)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL@gmail.com)
+
+**📞 Phone:** [+98 XXX XXX XXXX]  
+**📍 Based in:** Tehran, Iran
+
+
 ### 🎮 Fun Fact & Interests
 I’m passionate about simulation and optimization—I love designing efficient systems and improving algorithmic performance. Also, I enjoy playing Minecraft, especially because it’s built in Java!
 
