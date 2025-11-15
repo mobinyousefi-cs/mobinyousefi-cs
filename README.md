@@ -47,7 +47,9 @@
 
 
 ### 🏅 Achievements & Certifications
-*(To be added later.)*
+<div align="center">
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4)
+</div>
 
 ### 🌐 Social Links
 *(To be added later.)*
