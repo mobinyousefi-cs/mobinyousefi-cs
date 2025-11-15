@@ -47,11 +47,18 @@
 
 
 ### 🏅 Achievements & Certifications
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4)
 
-</div>
+- 🤖 **Machine Learning for Beginners** - SoloLearn [[Link]](#)
+- 🤖 **Prompt Engineering** - SoloLearn Online [[Link]](#)
+- 🧠 **Introduction to LLMs** - SoloLearn [[Link]](#)
+- 🧠 **Data Literacy with AI** - SoloLearn [[Link]](#)
+- 🧠 **Data Analytics with AI** - SoloLearn [[Link]](#)
+- 🐍 **Introduction to Python** - SoloLearn [[Link]](#)
+- 💻 **Intro to Programming** - Kaggle [[Link]](#)
+- 💻 **Git, Github, GitLab** - FaraDars [[Link]](#)
+- 📊 **Internet of Things** - University of Kurdistan [[Link]](#)
+- 🔬 **Tech for everyone** - SoloLearn [[Link]](#)
+
 
 ### 🌐 Social Links
 *(To be added later.)*
