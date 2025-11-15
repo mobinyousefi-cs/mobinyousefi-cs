@@ -66,25 +66,24 @@
 
 | Platform | Link | Description |
 |----------|------|-------------|
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mobin-yousefi-778a2522b) | Professional Profile |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin)]() | Professional Profile |
 | **Twitter** | [![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL) | Tech Insights |
 | **Instagram** | [![Instagram](https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram)](YOUR_INSTAGRAM_URL) | Personal & Projects |
-| **Telegram** | [![Telegram](https://img.shields.io/badge/Message-2CA5E0?style=for-the-badge&logo=telegram)]([YOUR_TELEGRAM_URL](https://t.me/MobinYousefiGit)) | Channel |
+| **Telegram** | [![Telegram](https://img.shields.io/badge/Message-2CA5E0?style=for-the-badge&logo=telegram)]([YOUR_TELEGRAM_URL]() | Channel |
 | **Portfolio** | [![Website](https://img.shields.io/badge/Visit-FF7139?style=for-the-badge&logo=firefox)](www.mobinyousefi.ir) | My Work |
-| **Contact** | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mobinyousefi.cs@gmail.com) | Business Inquiries |
+| **Contact** | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)]() | Business Inquiries |
 
 </div>
 
 ### 📱 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](www.linkedin.com/in/mobin-yousefi-778a2522b)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](YOUR_TWITTER_URL)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](YOUR_INSTAGRAM_URL)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram)](YOUR_TELEGRAM_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox)](YOUR_WEBSITE_URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram)]([YOUR_TELEGRAM_URL](https://t.me/MobinYousefiGit))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox)](www.mobinyousefi.ir)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:mobinyousefi.cs@gmail.com)
 
-**📞 Phone:** [+98 XXX XXX XXXX]  
 **📍 Based in:** Tehran, Iran
 
 
