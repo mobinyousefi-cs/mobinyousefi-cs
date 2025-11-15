@@ -49,7 +49,7 @@
 ### 🏅 Achievements & Certifications
 
 - 🤖 **Machine Learning for Beginners** - SoloLearn [[Link]](#)
-- 🤖 **Prompt Engineering** - SoloLearn Online [[Link]](#)
+- 🤖 **Prompt Engineering** - SoloLearn [[Link]](#)
 - 🧠 **Introduction to LLMs** - SoloLearn [[Link]](#)
 - 🧠 **Data Literacy with AI** - SoloLearn [[Link]](#)
 - 🧠 **Data Analytics with AI** - SoloLearn [[Link]](#)
@@ -60,8 +60,20 @@
 - 🔬 **Tech for everyone** - SoloLearn [[Link]](#)
 
 
-### 🌐 Social Links
-*(To be added later.)*
+### 💼 Professional Network
+
+<div align="center">
+
+| Platform | Link | Description |
+|----------|------|-------------|
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mobin-yousefi-778a2522b) | Professional Profile |
+| **Twitter** | [![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL) | Tech Insights |
+| **Instagram** | [![Instagram](https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram)](YOUR_INSTAGRAM_URL) | Personal & Projects |
+| **Telegram** | [![Telegram](https://img.shields.io/badge/Message-2CA5E0?style=for-the-badge&logo=telegram)](YOUR_TELEGRAM_URL) | Quick Chat |
+| **Portfolio** | [![Website](https://img.shields.io/badge/Visit-FF7139?style=for-the-badge&logo=firefox)](www.mobinyousefi.ir) | My Work |
+| **Contact** | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mobinyousefi.cs@gmail.com) | Business Inquiries |
+
+</div>
 
 ### 🎮 Fun Fact & Interests
 I’m passionate about simulation and optimization—I love designing efficient systems and improving algorithmic performance. Also, I enjoy playing Minecraft, especially because it’s built in Java!
