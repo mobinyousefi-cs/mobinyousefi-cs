@@ -69,7 +69,7 @@
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mobin-yousefi-778a2522b) | Professional Profile |
 | **Twitter** | [![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL) | Tech Insights |
 | **Instagram** | [![Instagram](https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram)](YOUR_INSTAGRAM_URL) | Personal & Projects |
-| **Telegram** | [![Telegram](https://img.shields.io/badge/Message-2CA5E0?style=for-the-badge&logo=telegram)](YOUR_TELEGRAM_URL) | Quick Chat |
+| **Telegram** | [![Telegram](https://img.shields.io/badge/Message-2CA5E0?style=for-the-badge&logo=telegram)]([YOUR_TELEGRAM_URL](https://t.me/MobinYousefiGit)) | Channel |
 | **Portfolio** | [![Website](https://img.shields.io/badge/Visit-FF7139?style=for-the-badge&logo=firefox)](www.mobinyousefi.ir) | My Work |
 | **Contact** | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mobinyousefi.cs@gmail.com) | Business Inquiries |
 
