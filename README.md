@@ -20,6 +20,20 @@
 
 ---
 
+<div align="center">
+  
+  ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, I'm Mobin Yousefi
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72C&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  
+  ### 🎯 *Passionate about creating innovative solutions*
+  
+</div>
+
+
+---
+
+
 ## About Me
 
 👋 Hi! I’m Mobin Yousefi, an MSc Computer Science graduate and aspiring PhD researcher with a deep passion for AI, optimization, and intelligent systems. My journey in computer science has empowered me to explore advanced metaheuristic algorithms, develop intelligent solutions for real-world problems, and contribute to cutting-edge research.
