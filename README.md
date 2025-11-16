@@ -66,7 +66,7 @@
 ### 📱 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](www.linkedin.com/in/mobin-yousefi-778a2522b)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](YOUR_TWITTER_URL)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)]([YOUR_TWITTER_URL](https://x.com/DarkLordOfCode))
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](YOUR_INSTAGRAM_URL)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram)]([YOUR_TELEGRAM_URL](https://t.me/MobinYousefiGit))
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox)](www.mobinyousefi.ir)
