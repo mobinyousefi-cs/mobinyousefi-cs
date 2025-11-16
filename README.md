@@ -71,4 +71,4 @@ I’m passionate about simulation and optimization—I love designing efficient 
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,shell,procfile&exclude_repo=your-large-repo-name)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=20)
