@@ -64,9 +64,7 @@
 ### 🎮 Fun Fact & Interests
 I’m passionate about simulation and optimization—I love designing efficient systems and improving algorithmic performance. Also, I enjoy playing Minecraft, especially because it’s built in Java!
 
----
 
 *I’m comfortable adapting my communication style for different audiences—whether professional, friendly, or creative. Always open to collaboration or research opportunities!*
-
-
+---
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinyousefi-cs&theme=radical)
