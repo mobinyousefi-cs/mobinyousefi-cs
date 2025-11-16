@@ -1,3 +1,11 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mobin+Yousefi!;" />
+</h1>
+
+<h3 align="center">
+  A passionate software developer from Iran 🚀
+</h3>
+
 ## About Me
 
 👋 Hi! I’m Mobin Yousefi, an MSc Computer Science graduate and aspiring PhD researcher with a deep passion for AI, optimization, and intelligent systems. My journey in computer science has empowered me to explore advanced metaheuristic algorithms, develop intelligent solutions for real-world problems, and contribute to cutting-edge research.
