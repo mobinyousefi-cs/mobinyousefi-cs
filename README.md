@@ -6,6 +6,103 @@
   A passionate software developer from Iran 🚀
 </h3>
 
+<div align="center">
+  
+  ![GitHub Header](https://github.com/mobinyousefi-cs/mobinyousefi-cs/blob/main/assets/github-header-image.png)
+  
+  # 👨‍💻 Mobin Yousefi
+  ### **Full-Stack Developer | Open Source Enthusiast**
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/mobinyousefi-cs?label=Followers&style=social" alt="GitHub Followers" />
+  </p>
+</div>
+
+<div align="center">
+  
+  # 🚀 Mobin Yousefi
+  
+  ### `Software Engineer • Problem Solver • Tech Innovator`
+  
+  ⚡ **Turning ideas into reality through code** ⚡
+  
+  ---
+</div>
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mobin%20Yousefi&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling" />
+  
+  <h3> 💻 Full-Stack Developer • 🎯 Open Source Contributor • 🌍 Based in Iran </h3>
+  
+</div>
+
+<div align="center">
+  
+  # 👋 Hello World! I'm Mobin Yousefi
+  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
+  ### 🛠️ Tech Enthusiast | 💡 Problem Solver | 🚀 Continuous Learner
+  
+  <p>
+    <a href="https://github.com/mobinyousefi-cs">
+      <img src="https://img.shields.io/github/followers/mobinyousefi-cs?color=blue&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers">
+    </a>
+    <a href="https://github.com/mobinyousefi-cs?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-${YOUR_REPO_COUNT}-blue?style=for-the-badge&logo=github" alt="Total Repositories">
+    </a>
+  </p>
+  
+</div>
+
+
+<div align="center">
+  
+  ![MasterHead](https://camo.githubusercontent.com/5e3babfce460a0b7764f6d3e59db3b6d2c2b1c42/68747470733a2f2f692e696d6775722e636f6d2f4d35507151746a2e676966)
+  
+  # Hi, I'm Mobin Yousefi 👋
+  
+  ### **A passionate developer who loves to build amazing things**
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
+
+<div align="center">
+  
+  ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, I'm Mobin Yousefi
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72C&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  
+  ### 🎯 *Passionate about creating innovative solutions*
+  
+</div>
+
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mobin%20Yousefi&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling" />
+  
+  <h3> 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    Full-Stack Developer • Open Source Enthusiast • Tech Innovator 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h3>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/mobinyousefi-cs?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/mobinyousefi-cs?label=Stars&style=social" alt="GitHub Stars" />
+  </p>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
+
+---
+
 ## About Me
 
 👋 Hi! I’m Mobin Yousefi, an MSc Computer Science graduate and aspiring PhD researcher with a deep passion for AI, optimization, and intelligent systems. My journey in computer science has empowered me to explore advanced metaheuristic algorithms, develop intelligent solutions for real-world problems, and contribute to cutting-edge research.
