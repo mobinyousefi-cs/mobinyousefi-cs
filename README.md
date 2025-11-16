@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mobin%20Yousefi&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72C&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72C&center=true&vCenter=true&width=435&lines=Researcher;Full-Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
