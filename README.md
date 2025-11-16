@@ -39,11 +39,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinyousefi-cs&theme=radical)
 
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mobinyousefi-cs)
-
-### 🐍 Snake Animation
-![Snake Animation](https://github.com/mobinyousefi-cs/mobinyousefi-cs/blob/output/github-contribution-grid-snake.svg)
-
 ### 🏅 Achievements & Certifications
 
 - 🤖 **Machine Learning for Beginners** - SoloLearn [[Link]](#)
