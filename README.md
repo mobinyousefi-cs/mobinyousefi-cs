@@ -32,12 +32,8 @@
 ## 📊 GitHub Stats & Language Usage
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=20)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinyousefi-cs&theme=radical)
 
 ### 🏅 Achievements & Certifications
 
@@ -71,3 +67,6 @@ I’m passionate about simulation and optimization—I love designing efficient 
 ---
 
 *I’m comfortable adapting my communication style for different audiences—whether professional, friendly, or creative. Always open to collaboration or research opportunities!*
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinyousefi-cs&theme=radical)
