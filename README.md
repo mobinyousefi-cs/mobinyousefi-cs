@@ -71,4 +71,4 @@ I’m passionate about simulation and optimization—I love designing efficient 
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=12&hide=html,css,scss,less,blade,dockerfile,procfile,shell,cmake,makefile&exclude_repo=repo1,repo2&card_width=500&custom_title=Programming%20Languages%20I%20Use)
+![Metrics](https://metrics.lecoq.io/mobinyousefi-cs?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FTehran)
