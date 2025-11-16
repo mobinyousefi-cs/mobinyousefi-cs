@@ -2,11 +2,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mobin%20Yousefi&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling" />
   
-  <h3> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    Full-Stack Developer • Open Source Enthusiast • Tech Innovator 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72C&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -17,22 +13,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 </div>
-
----
-
-<div align="center">
-  
-  ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, I'm Mobin Yousefi
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72C&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-  
-  ### 🎯 *Passionate about creating innovative solutions*
-  
-</div>
-
-
----
-
 
 ## About Me
 
