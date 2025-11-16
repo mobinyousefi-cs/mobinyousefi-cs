@@ -36,6 +36,10 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mobinyousefi-cs&theme=redical)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true)
+
+![Snake Animation](https://github.com/mobinyousefi-cs/mobinyousefi-cs/blob/output/github-contribution-grid-snake.svg)
+
 ### 🏅 Achievements & Certifications
 
 - 🤖 **Machine Learning for Beginners** - SoloLearn [[Link]](#)
