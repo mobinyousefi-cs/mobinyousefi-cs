@@ -68,3 +68,7 @@ I’m passionate about simulation and optimization—I love designing efficient 
 * I’m comfortable adapting my communication style for different audiences—whether professional, friendly, or creative. Always open to collaboration or research opportunities!*
 ---
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinyousefi-cs&theme=react)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=12&hide=html,css,scss,less,blade,dockerfile,procfile,shell,cmake,makefile&exclude_repo=repo1,repo2&card_width=500&custom_title=Programming%20Languages%20I%20Use)
