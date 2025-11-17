@@ -4,14 +4,14 @@
   
 
   <p>
-        <a href="https://github.com/mobinyousefi-cs?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-11-blue?style=flat-square" alt="Total Repositories">
+    <a href="https://github.com/mobinyousefi-cs?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-11-blue?style=for-the-badge&logo=github" alt="Total Repositories">
     </a>
     <a href="https://github.com/mobinyousefi-cs?tab=stars">
-      <img src="https://img.shields.io/badge/Stars-3-yellow?style=flat-square" alt="Total Stars">
+      <img src="https://img.shields.io/badge/Stars-3-yellow?style=for-the-badge&logo=github" alt="Total Stars">
     </a>
     <a href="https://github.com/mobinyousefi-cs?tab=followers">
-      <img src="https://img.shields.io/badge/Followers-2-green?style=flat-square" alt="Total Followers">
+      <img src="https://img.shields.io/badge/Followers-2-green?style=for-the-badge&logo=github" alt="Total Followers">
     </a>
   </p>
 
