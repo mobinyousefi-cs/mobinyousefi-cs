@@ -43,7 +43,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="50" height="50"/>&nbsp;
 
-## 📊 GitHub Stats & Language Usage
+## 📊 GitHub Stats & Language Usage & GitHub Trophies
 
 <div align="center">
 
@@ -73,7 +73,15 @@
 
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true)
+<div align="center">
+  
+  ## 🏆 GitHub Trophies
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
+  
+  <br>
+  
+</div>
 
 ## 🏅 Achievements & Certifications
 
