@@ -2,16 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mobin%20Yousefi&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72C&center=true&vCenter=true&width=435&lines=Researcher;Data+Visualization+Expert;Machine+Learning+Engineer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
   
+<div align="center">
+
   <p>
-<a href="https://github.com/mobinyousefi-cs?tab=repositories">
-  <img src="https://badges.strrl.dev/repos/mobinyousefi-cs?color=blue&logo=github&style=for-the-badge" alt="Total Repositories">
-</a>    <a href="https://github.com/mobinyousefi-cs?tab=repositories">
-      <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=📚%20Repositories&query=public_repos&url=https://api.github.com/users/mobinyousefi-cs&logo=github&style=for-the-badge" alt="Total Repositories">
-    </a>
-      <img src="https://img.shields.io/badge/dynamic/json?color=green&label=🤝%20Followers&query=followers&url=https://api.github.com/users/mobinyousefi-cs&logo=github&style=for-the-badge" alt="Followers">
-    </a>
-    <a href="https://github.com/mobinyousefi-cs?tab=stars">
-      <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=⭐%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mobinyousefi-cs&logo=github&style=for-the-badge" alt="Stars">
+    <a href="https://github.com/mobinyousefi-cs?tab=repositories">
+      <img src="https://custom-icon-badges.demolab.com/badge/Repositories-25-blue?logo=repo&logoColor=white" alt="Total Repositories">
     </a>
     <a href="https://github.com/mobinyousefi-cs?tab=stars">
       <img src="https://custom-icon-badges.demolab.com/badge/Stars-120-yellow?logo=star&logoColor=white" alt="Total Stars">
@@ -22,6 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
 
+</div>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
