@@ -45,8 +45,6 @@
 
 ## 📊 GitHub Stats & Language Usage
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=dark)
-
 <div align="center">
 
   <!-- جدول اول -->
@@ -74,7 +72,6 @@
   </table>
 
 </div>
-
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true)
 
