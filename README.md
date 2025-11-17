@@ -4,7 +4,7 @@
   
   <p>
     <a href="https://github.com/mobinyousefi-cs?tab=repositories">
-      <img src="https://custom-icon-badges.demolab.com/badge/Repositories-25-blue?logo=repo&logoColor=white" alt="Total Repositories">
+      <img src="https://custom-icon-badges.demolab.com/badge/Repositories-blue?logo=repo&logoColor=white" alt="Total Repositories">
     </a>
     <a href="https://github.com/mobinyousefi-cs?tab=stars">
       <img src="https://custom-icon-badges.demolab.com/badge/Stars-120-yellow?logo=star&logoColor=white" alt="Total Stars">
