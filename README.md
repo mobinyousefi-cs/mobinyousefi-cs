@@ -49,7 +49,7 @@
 
 <div align="center">
   
-
+  ### 🚀 GitHub Performance
   
   <table>
     <tr>
@@ -67,14 +67,14 @@
     
     <tr>
       <td width="50%" align="center">
-        <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=radical" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=donut&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,procfile,shell" />
         <br>
-        <strong>📁 Repository Distribution</strong>
+        <strong>📊 Languages Donut</strong>
       </td>
       <td width="50%" align="center">
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,procfile,shell" />
         <br>
-        <strong>👨‍💻 Language Usage</strong>
+        <strong>👨‍💻 Top Languages</strong>
       </td>
     </tr>
   </table>
