@@ -6,6 +6,15 @@
 <a href="https://github.com/mobinyousefi-cs?tab=repositories">
   <img src="https://badges.strrl.dev/repos/mobinyousefi-cs?color=blue&logo=github&style=for-the-badge" alt="Total Repositories">
 </a>
+    <a href="https://github.com/mobinyousefi-cs?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https://api.github.com/users/mobinyousefi-cs&logo=github&style=for-the-badge" alt="Total Repositories">
+</a>
+    <a href="https://github.com/mobinyousefi-cs?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-30-blue?logo=github&style=for-the-badge" alt="Total Repositories">
+</a>
+    <a href="https://github.com/mobinyousefi-cs?tab=repositories">
+  <img src="https://img.shields.io/github/search/mobinyousefi-cs/mobinyousefi-cs?color=blue&label=Repositories&query=is:public&logo=github&style=for-the-badge" alt="Public Repositories">
+</a>
     <a href="https://github.com/mobinyousefi-cs?tab=stars">
       <img src="https://custom-icon-badges.demolab.com/badge/Stars-120-yellow?logo=star&logoColor=white" alt="Total Stars">
     </a>
