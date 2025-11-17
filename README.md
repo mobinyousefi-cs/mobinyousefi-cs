@@ -45,17 +45,13 @@
 
 ## 📊 GitHub Stats & Language Usage
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=dark)
+![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=20)
-
-
 <div align="center">
   <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&show_icons=true&theme=highcontrast&hide_border=false&count_private=true&include_all_commits=true)](https://git.io/streak-stats)" />
 </div>
 <div align="center">  
-  
-![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=dark)
-
 ![SUM](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobinyousefi-cs&theme=dark)
 </div>
 
