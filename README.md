@@ -21,6 +21,20 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?style=flat-square&logo=person" />
 </p>
 
+<div style="border: 1px solid #444; padding: 15px; border-radius: 10px; width: fit-content;">
+
+<img src="https://img.shields.io/github/followers/mobinyousefi-cs?style=for-the-badge&label=Followers&logo=github" />
+<img src="https://img.shields.io/github/stars/mobinyousefi-cs?style=for-the-badge&label=Stars&logo=github" />
+<img src="https://img.shields.io/badge/Public%20Repos-11-blue?style=for-the-badge&logo=github" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&style=for-the-badge&label=Profile%20Views" />
+<img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?style=for-the-badge&logo=person" />
+
+</div>
+
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 </div>
