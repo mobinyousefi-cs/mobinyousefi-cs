@@ -3,14 +3,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72C&center=true&vCenter=true&width=435&lines=Researcher;Data+Visualization+Expert;Machine+Learning+Engineer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/mobinyousefi-cs?label=Followers&style=social" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/mobinyousefi-cs?style=for-the-badge&color=yellow" alt="GitHub Stars" />
+    <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20Views%20👀&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/mobinyousefi-cs?label=Followers%20🤝&color=success&style=for-the-badge&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/mobinyousefi-cs?label=Stars%20⭐&color=yellow&style=for-the-badge&logo=github" alt="GitHub Stars" />
   </p>
   
-  ![Followers](https://img.shields.io/github/followers/mobinyousefi-cs?style=for-the-badge&color=blue)
-  
-  ![Stars](https://img.shields.io/github/stars/mobinyousefi-cs?style=for-the-badge&color=yellow)
+  <p>
+    <img src="https://img.shields.io/github/forks/mobinyousefi-cs?label=Forks%20🍴&color=orange&style=for-the-badge&logo=github" alt="Repository Forks" />
+    <img src="https://img.shields.io/github/repo-size/mobinyousefi-cs/mobinyousefi-cs?label=Repo%20Size&color=informational&style=for-the-badge" alt="Repo Size" />
+    <img src="https://img.shields.io/github/last-commit/mobinyousefi-cs/mobinyousefi-cs?label=Last%20Commit%20🚀&color=red&style=for-the-badge&logo=git" alt="Last Commit" />
+  </p>
+
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
