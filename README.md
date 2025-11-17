@@ -47,6 +47,14 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=20)
+
+<div align="center">  
+  
+![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=dark)
+
+![SUM](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobinyousefi-cs&theme=dark)
+</div>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true)
 
 ## 🏅 Achievements & Certifications
@@ -93,12 +101,7 @@ I’m passionate about simulation and optimization—I love designing efficient 
 <div align="center">
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=dark&hide_border=false" />
   </div>
-<div align="center">  
-  
-![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=dark)
 
-![SUM](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobinyousefi-cs&theme=dark)
-</div>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
