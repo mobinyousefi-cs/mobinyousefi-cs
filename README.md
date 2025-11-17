@@ -49,31 +49,37 @@
 
 
 <div align="center">
-
+  
+  ### 📊 GitHub Analytics
+  
   <table>
     <tr>
+      <!-- ستون اول -->
       <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&hide=issues" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" />
         <br>
-        <strong>📊 Overall Stats</strong>
+        <strong>📈 GitHub Stats</strong>
       </td>
+      <!-- ستون دوم -->
       <td width="50%" align="center">
-        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical&hide_border=false&currStreakLabel=FFFFFF&fire=FF0000" />
+        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical&hide_border=false&currStreakLabel=FFFFFF" />
         <br>
-        <strong>🔥 Streak Stats</strong>
+        <strong>🔥 Contribution Streak</strong>
       </td>
     </tr>
     
     <tr>
+      <!-- ستون سوم -->
       <td width="50%" align="center">
         <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=radical" />
         <br>
-        <strong>📁 Repository Distribution</strong>
+        <strong>📚 Repos per Language</strong>
       </td>
+      <!-- ستون چهارم -->
       <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,procfile,shell&card_width=400" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,procfile,shell,cmake,makefile" />
         <br>
-        <strong>👨‍💻 Language Usage</strong>
+        <strong>💻 Top Languages</strong>
       </td>
     </tr>
   </table>
