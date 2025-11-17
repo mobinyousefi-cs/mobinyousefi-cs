@@ -75,6 +75,8 @@
 
 <div align="center">
   
+  ## 🏅 GitHub Trophy Case
+  
   <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=false&margin-w=3&margin-h=3&row=4&column=8&rank=ALL" />
   
 </div>
