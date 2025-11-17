@@ -47,47 +47,39 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=dark)
 
-
 <div align="center">
   
-  ### 📊 GitHub Analytics
+
   
   <table>
     <tr>
-      <!-- ستون اول -->
       <td width="50%" align="center">
         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" />
         <br>
-        <strong>📈 GitHub Stats</strong>
+        <strong>📊 Overall Stats</strong>
       </td>
-      <!-- ستون دوم -->
       <td width="50%" align="center">
-        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical&hide_border=false&currStreakLabel=FFFFFF" />
+        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical&hide_border=false" />
         <br>
-        <strong>🔥 Contribution Streak</strong>
+        <strong>🔥 Streak Stats</strong>
       </td>
     </tr>
     
     <tr>
-      <!-- ستون سوم -->
       <td width="50%" align="center">
-        <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=radical" />
+        <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=radical" />
         <br>
-        <strong>📚 Repos per Language</strong>
+        <strong>📁 Repository Distribution</strong>
       </td>
-      <!-- ستون چهارم -->
       <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,procfile,shell,cmake,makefile" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,procfile,shell" />
         <br>
-        <strong>💻 Top Languages</strong>
+        <strong>👨‍💻 Language Usage</strong>
       </td>
     </tr>
   </table>
   
 </div>
-
-
-
 
 ---
 ![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=dark)
