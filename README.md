@@ -73,12 +73,14 @@
 
 <div align="center">
   
-  ## 🏆 Complete Trophy Collection
+  ## ⚡ GitHub Achievements
   
-  <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=false&margin-w=4&margin-h=4&row=4&column=7&rank=ALL" />
-  
-  <br>
-  <p><i>All possible GitHub achievements - some conquered, some waiting! ⚔️</i></p>
+  ![Stars](https://img.shields.io/badge/Stars-%E2%AD%90%20120%20stars-yellow)
+  ![Followers](https://img.shields.io/badge/Followers-%F0%9F%91%A5%2050%20followers-blue)
+  ![Repositories](https://img.shields.io/badge/Repositories-%F0%9F%93%81%2025%20repos-orange)
+  ![Contributions](https://img.shields.io/badge/Contributions-%F0%9F%92%AA%201%2C000%2B-green)
+  ![Commit Streak](https://img.shields.io/badge/Streak-%F0%9F%94%A5%2015%20days-red)
+  ![PRs](https://img.shields.io/badge/Pull%20Requests-%E2%9C%88%EF%B8%8F%2010%20merged-purple)
   
 </div>
 
