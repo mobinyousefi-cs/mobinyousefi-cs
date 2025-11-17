@@ -75,32 +75,9 @@
 
 <div align="center">
   
-  ## 🏆 GitHub Trophies
+  ### 🏆 GitHub Trophies
   
-  <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
-  
-  <br>
-  
-</div>
-
-<div align="center">
-  
-  <h2>🎯 Achievement Unlocked!</h2>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=2&column=5&rank=-C,-B" />
-  
-  <br>
-  <em>Leveling up through code and contributions! 🚀</em>
-  
-</div>
-
-<div align="center">
-  
-  <h2>⭐ GitHub Hall of Fame</h2>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
-  
-  <p><i>Collecting stars one commit at a time! ✨</i></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=false&margin-w=5&margin-h=5&row=3&column=7" />
   
 </div>
 
