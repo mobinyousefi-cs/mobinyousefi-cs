@@ -48,37 +48,41 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=dark)
 
 <div align="center">
+
+  ### 📈 GitHub Statistics
   
-  ### 📊 GitHub Analytics
-  
+  <!-- جدول اول -->
   <table>
     <tr>
       <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" />
         <br>
-        <strong>📈 GitHub Stats</strong>
+        <strong>GitHub Stats</strong>
       </td>
       <td width="50%" align="center">
-        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical" />
+        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical&hide_border=false" />
         <br>
-        <strong>🔥 Contribution Streak</strong>
-      </td>
-    </tr>
-    
-    <tr>
-      <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mobinyousefi-cs&theme=radical" />
-        <br>
-        <strong>⏰ Coding Time</strong>
-      </td>
-      <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical" />
-        <br>
-        <strong>💻 Top Languages</strong>
+        <strong>Contribution Streak</strong>
       </td>
     </tr>
   </table>
-  
+
+  <!-- جدول دوم -->
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=donut&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,procfile,shell" />
+        <br>
+        <strong>Languages Donut</strong>
+      </td>
+      <td width="50%" align="center">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,procfile,shell" />
+        <br>
+        <strong>Top Languages</strong>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
