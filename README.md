@@ -51,7 +51,6 @@
 </div>
 
 ![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=20)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true)
