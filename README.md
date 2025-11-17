@@ -49,36 +49,38 @@
 
 <div align="center">
 
-  ### 📈 GitHub Statistics
+  ### 🚀 GitHub Overview
   
-  <!-- جدول اول -->
+  <!-- جدول اول: آمار اصلی -->
   <table>
     <tr>
       <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical" />
         <br>
-        <strong>GitHub Stats</strong>
+        <strong>📊 Profile Stats</strong>
       </td>
       <td width="50%" align="center">
-        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical&hide_border=false" />
+        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical" />
         <br>
-        <strong>Contribution Streak</strong>
+        <strong>🔥 Streak Stats</strong>
       </td>
     </tr>
   </table>
 
-  <!-- جدول دوم -->
+  <br>
+  
+  <!-- جدول دوم: زبان‌های برنامه‌نویسی -->
   <table>
     <tr>
       <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=donut&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,procfile,shell" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=donut&theme=radical&langs_count=6" />
         <br>
-        <strong>Languages Donut</strong>
+        <strong>🎯 Languages Donut</strong>
       </td>
       <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,procfile,shell" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=8" />
         <br>
-        <strong>Top Languages</strong>
+        <strong>💻 Compact View</strong>
       </td>
     </tr>
   </table>
