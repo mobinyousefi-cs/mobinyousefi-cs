@@ -4,19 +4,19 @@
   
 
   <p>
-    <a href="https://github.com/mobinyousefi-cs?tab=repositories">
-      <img src="https://custom-icon-badges.demolab.com/badge/📚%20Repositories-11-blue?logo=repo&logoColor=white" alt="Total Repositories">
+        <a href="https://github.com/mobinyousefi-cs?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-11-blue?style=flat-square" alt="Total Repositories">
     </a>
     <a href="https://github.com/mobinyousefi-cs?tab=stars">
-      <img src="https://custom-icon-badges.demolab.com/badge/⭐%20Stars-3-yellow?logo=star&logoColor=white" alt="Total Stars">
+      <img src="https://img.shields.io/badge/Stars-3-yellow?style=flat-square" alt="Total Stars">
     </a>
     <a href="https://github.com/mobinyousefi-cs?tab=followers">
-      <img src="https://custom-icon-badges.demolab.com/badge/👥%20Followers-2-success?logo=people&logoColor=white" alt="Total Followers">
+      <img src="https://img.shields.io/badge/Followers-2-green?style=flat-square" alt="Total Followers">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
 
   <p>
+    <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
     <img src="https://custom-icon-badges.demolab.com/badge/💼%20Hireable-Yes-brightgreen?logo=code&logoColor=white" alt="Hireable">
   </p>
   
