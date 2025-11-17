@@ -8,7 +8,9 @@
     <img src="https://img.shields.io/github/stars/mobinyousefi-cs?label=Stars&style=social" alt="GitHub Stars" />
     <img src="https://img.shields.io/badge/Stars-%E2%AD%90%20120%20stars-yellow" alt="GitHub Stars" />
   </p>
+  
   ![Followers](https://img.shields.io/github/followers/mobinyousefi-cs?style=for-the-badge&color=blue)
+  
   ![Stars](https://img.shields.io/github/stars/mobinyousefi-cs?style=for-the-badge&color=yellow)
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
