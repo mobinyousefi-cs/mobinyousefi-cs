@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72C&center=true&vCenter=true&width=435&lines=Researcher;Data+Visualization+Expert;Machine+Learning+Engineer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
   
   <p>
-    <a href="https://github.com/mobinyousefi-cs?tab=repositories">
-      <img src="https://custom-icon-badges.demolab.com/badge/Repositories-blue?logo=repo&logoColor=white" alt="Total Repositories">
-    </a>
+<a href="https://github.com/mobinyousefi-cs?tab=repositories">
+  <img src="https://badges.strrl.dev/repos/mobinyousefi-cs?color=blue&logo=github&style=for-the-badge" alt="Total Repositories">
+</a>
     <a href="https://github.com/mobinyousefi-cs?tab=stars">
       <img src="https://custom-icon-badges.demolab.com/badge/Stars-120-yellow?logo=star&logoColor=white" alt="Total Stars">
     </a>
