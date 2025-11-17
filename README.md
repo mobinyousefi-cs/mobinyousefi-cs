@@ -51,14 +51,11 @@
 <div align="center">
   <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&show_icons=true&theme=highcontrast&hide_border=false&count_private=true&include_all_commits=true)](https://git.io/streak-stats)" />
 </div>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=20)
 
-
----
-
-
-<div align="center">  
-![SUM](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobinyousefi-cs&theme=dark)
+<div align="center">
+  <img height="200em" src="https://streak-stats.demolab.com?user=nafiul-afk&show_icons=true&theme=highcontrast&hide_border=false&count_private=true&include_all_commits=true)](https://git.io/streak-stats)" />
 </div>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true)
