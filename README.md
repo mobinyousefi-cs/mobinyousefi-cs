@@ -12,9 +12,6 @@
     <a href="https://github.com/mobinyousefi-cs?tab=followers">
       <img src="https://custom-icon-badges.demolab.com/badge/Followers-50-success?logo=people&logoColor=white" alt="Total Followers">
     </a>
-  </p>
-  
-  <p>
     <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
     <img src="https://img.shields.io/github/contributors/mobinyousefi-cs/mobinyousefi-cs?label=Contributors&color=orange&style=flat-square" alt="Contributors">
     <img src="https://img.shields.io/github/issues/mobinyousefi-cs/mobinyousefi-cs?label=Issues&color=green&style=flat-square" alt="Issues">
