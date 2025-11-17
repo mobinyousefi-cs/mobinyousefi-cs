@@ -3,22 +3,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72C&center=true&vCenter=true&width=435&lines=Researcher;Data+Visualization+Expert;Machine+Learning+Engineer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
   
 
-  <p>
-    <a href="https://github.com/mobinyousefi-cs?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-11-blue?style=for-the-badge&logo=github" alt="Total Repositories">
-    </a>
-    <a href="https://github.com/mobinyousefi-cs?tab=stars">
-      <img src="https://img.shields.io/badge/Stars-3-yellow?style=for-the-badge&logo=github" alt="Total Stars">
-    </a>
-    <a href="https://github.com/mobinyousefi-cs?tab=followers">
-      <img src="https://img.shields.io/badge/Followers-2-green?style=for-the-badge&logo=github" alt="Total Followers">
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/mobinyousefi-cs?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-%3CNUMBER%3E-blue?style=for‐the‐badge&logo=github" alt="Total Repositories" />
+  </a>
+  <a href="https://github.com/mobinyousefi-cs?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-%3CNUMBER%3E-yellow?style=for‐the‐badge&logo=github" alt="Total Stars" />
+  </a>
+  <a href="https://github.com/mobinyousefi-cs?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-%3CNUMBER%3E-green?style=for‐the‐badge&logo=github" alt="Followers" />
+  </a>
+</p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
-    <img src="https://custom-icon-badges.demolab.com/badge/💼%20Hireable-Yes-brightgreen?logo=code&logoColor=white" alt="Hireable">
-  </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://custom-icon-badges.demolab.com/badge/💼%20Hireable-Yes-brightgreen?logo=code&logoColor=white" alt="Hireable" />
+</p>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
