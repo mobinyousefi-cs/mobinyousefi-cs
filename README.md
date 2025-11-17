@@ -71,13 +71,14 @@
     </tr>
   </table>
 
-</div>
-
 <div align="center">
   
-  ## 🏅 GitHub Trophy Case
+  ## 🏆 Complete Trophy Collection
   
-  <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=false&margin-w=3&margin-h=3&row=4&column=8&rank=ALL" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=false&margin-w=4&margin-h=4&row=4&column=7&rank=ALL" />
+  
+  <br>
+  <p><i>All possible GitHub achievements - some conquered, some waiting! ⚔️</i></p>
   
 </div>
 
