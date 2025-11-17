@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/mobinyousefi-cs?style=flat-square&label=Followers&logo=github" />
   <img src="https://img.shields.io/github/stars/mobinyousefi-cs?style=flat-square&label=Stars&logo=github" />
-  <img src="https://img.shields.io/badge/Public%20Repos-11-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Public%20Repos-121-blue?style=flat-square&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&style=flat-square&label=Views" />
   <img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?style=flat-square&logo=person" />
 </p>
