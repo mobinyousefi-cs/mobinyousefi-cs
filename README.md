@@ -6,9 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20Views%20👀&color=blueviolet&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/mobinyousefi-cs?label=Followers%20🤝&color=success&style=for-the-badge&logo=github" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/mobinyousefi-cs?label=Stars%20⭐&color=yellow&style=for-the-badge&logo=github" alt="GitHub Stars" />
-  </p>
-  
-  <p>
     <img src="https://img.shields.io/github/forks/mobinyousefi-cs?label=Forks%20🍴&color=orange&style=for-the-badge&logo=github" alt="Repository Forks" />
     <img src="https://img.shields.io/github/repo-size/mobinyousefi-cs/mobinyousefi-cs?label=Repo%20Size&color=informational&style=for-the-badge" alt="Repo Size" />
     <img src="https://img.shields.io/github/last-commit/mobinyousefi-cs/mobinyousefi-cs?label=Last%20Commit%20🚀&color=red&style=for-the-badge&logo=git" alt="Last Commit" />
