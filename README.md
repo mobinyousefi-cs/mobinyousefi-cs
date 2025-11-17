@@ -5,24 +5,15 @@
 
   <p>
     <a href="https://github.com/mobinyousefi-cs?tab=repositories">
-      <img src="https://custom-icon-badges.demolab.com/badge/Repositories-25-blue?logo=repo&logoColor=white" alt="Total Repositories">
+      <img src="https://custom-icon-badges.demolab.com/badge/Repositories-11-blue?logo=repo&logoColor=white" alt="Total Repositories">
     </a>
     <a href="https://github.com/mobinyousefi-cs?tab=stars">
-      <img src="https://custom-icon-badges.demolab.com/badge/Stars-120-yellow?logo=star&logoColor=white" alt="Total Stars">
+      <img src="https://custom-icon-badges.demolab.com/badge/Stars-3-yellow?logo=star&logoColor=white" alt="Total Stars">
     </a>
     <a href="https://github.com/mobinyousefi-cs?tab=followers">
-      <img src="https://custom-icon-badges.demolab.com/badge/Followers-50-success?logo=people&logoColor=white" alt="Total Followers">
+      <img src="https://custom-icon-badges.demolab.com/badge/Followers-2-success?logo=people&logoColor=white" alt="Total Followers">
     </a>
-    <a href="https://github.com/mobinyousefi-cs?tab=repositories">
-      <img src="https://custom-icon-badges.demolab.com/badge/Forks-30-orange?logo=fork&logoColor=white" alt="Total Forks">
-    </a>
-  </p>
-
-  <p>
     <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
-    <img src="https://custom-icon-badges.demolab.com/badge/Contributions-1k+-green?logo=git-commit&logoColor=white" alt="Total Contributions">
-    <img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?logo=code&logoColor=white" alt="Hireable Status">
-    <img src="https://custom-icon-badges.demolab.com/badge/Open%20Source-❤️-red?logo=heart&logoColor=white" alt="Open Source">
   </p>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
