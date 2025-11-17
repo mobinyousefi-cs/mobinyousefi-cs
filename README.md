@@ -124,10 +124,6 @@ I’m passionate about simulation and optimization—I love designing efficient 
 
 * I’m comfortable adapting my communication style for different audiences—whether professional, friendly, or creative. Always open to collaboration or research opportunities!*
 ---
-<div align="right">
-  <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&show_icons=true&theme=highcontrast&hide_border=false&count_private=true&include_all_commits=true)](https://git.io/streak-stats)" />
-</div>
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinyousefi-cs&theme=react)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
