@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mobin%20Yousefi&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72C&center=true&vCenter=true&width=435&lines=Researcher;Data+Visualization+Expert;Machine+Learning+Engineer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
   
-<div align="center">
 
   <p>
     <a href="https://github.com/mobinyousefi-cs?tab=repositories">
@@ -14,10 +13,17 @@
     <a href="https://github.com/mobinyousefi-cs?tab=followers">
       <img src="https://custom-icon-badges.demolab.com/badge/Followers-50-success?logo=people&logoColor=white" alt="Total Followers">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+    <a href="https://github.com/mobinyousefi-cs?tab=repositories">
+      <img src="https://custom-icon-badges.demolab.com/badge/Forks-30-orange?logo=fork&logoColor=white" alt="Total Forks">
+    </a>
   </p>
 
-</div>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+    <img src="https://custom-icon-badges.demolab.com/badge/Contributions-1k+-green?logo=git-commit&logoColor=white" alt="Total Contributions">
+    <img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?logo=code&logoColor=white" alt="Hireable Status">
+    <img src="https://custom-icon-badges.demolab.com/badge/Open%20Source-❤️-red?logo=heart&logoColor=white" alt="Open Source">
+  </p>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
