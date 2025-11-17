@@ -17,9 +17,6 @@
   </p>
 
   <p>
-    <img src="https://custom-icon-badges.demolab.com/badge/🤖%20ML%20Projects-3-purple?logo=brain&logoColor=white" alt="ML Projects">
-    <img src="https://custom-icon-badges.demolab.com/badge/📊%20Data%20Analysis-2-teal?logo=chart&logoColor=white" alt="Data Analysis">
-    <img src="https://custom-icon-badges.demolab.com/badge/🚀%20Contributions-200%2B-green?logo=rocket&logoColor=white" alt="Contributions">
     <img src="https://custom-icon-badges.demolab.com/badge/💼%20Hireable-Yes-brightgreen?logo=code&logoColor=white" alt="Hireable">
   </p>
   
