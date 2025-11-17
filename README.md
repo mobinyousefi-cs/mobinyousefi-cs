@@ -4,22 +4,36 @@
   
 
 <p align="center">
-  <a href="https://github.com/mobinyousefi-cs?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-11-blue?style=for-the-badge&logo=github" alt="Total Repositories" />
-  </a>
-  <a href="https://github.com/mobinyousefi-cs?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-3-yellow?style=for-the-badge&logo=github" alt="Total Stars" />
-  </a>
+  <!-- Followers (داینامیک) -->
   <a href="https://github.com/mobinyousefi-cs?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-2-brightgreen?style=for-the-badge&logo=github" alt="Followers" />
+    <img
+      src="https://img.shields.io/github/followers/mobinyousefi-cs?style=for-the-badge&logo=github&label=Followers"
+      alt="GitHub Followers"
+    />
+  </a>
+
+  <!-- Total Stars روی همه ریپوها (داینامیک، تا ۲۰۰ ریپو) -->
+  <a href="https://github.com/mobinyousefi-cs?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/mobinyousefi-cs?style=for-the-badge&logo=github&label=Total%20Stars"
+      alt="Total GitHub Stars"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=👀%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://custom-icon-badges.demolab.com/badge/%F0%9F%92%BC%20Hireable-Yes-brightgreen?logo=code&logoColor=white" alt="Hireable" />
-</p>
-  
+  <!-- Profile views (داینامیک از komarev) -->
+  <img
+    src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=👀%20Profile%20Views&color=0e75b6&style=flat-square"
+    alt="Profile Views"
+  />
+
+  <!-- Hireable (استاتیک – خودت مشخص می‌کنی) -->
+  <img
+    src="https://custom-icon-badges.demolab.com/badge/%F0%9F%92%BC%20Hireable-Yes-brightgreen?logo=code&logoColor=white"
+    alt="Hireable"
+  />
+</p>  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 </div>
