@@ -98,9 +98,7 @@ I’m passionate about simulation and optimization—I love designing efficient 
 <div align="center">
   <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&show_icons=true&theme=highcontrast&hide_border=false&count_private=true&include_all_commits=true)](https://git.io/streak-stats)" />
 </div>
-<div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=dark&hide_border=false" />
-  </div>
+
 
 
 
