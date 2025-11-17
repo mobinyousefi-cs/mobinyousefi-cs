@@ -6,6 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/mobinyousefi-cs?label=Followers&style=social" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/mobinyousefi-cs?label=Stars&style=social" alt="GitHub Stars" />
+    <img src="https://img.shields.io/badge/Stars-%E2%AD%90%20120%20stars-yellow" alt="GitHub Stars" />
   </p>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
