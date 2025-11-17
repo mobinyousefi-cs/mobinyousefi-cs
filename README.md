@@ -13,7 +13,16 @@
     <a href="https://github.com/mobinyousefi-cs?tab=followers">
       <img src="https://custom-icon-badges.demolab.com/badge/Followers-2-success?logo=people&logoColor=white" alt="Total Followers">
     </a>
+    <a href="https://github.com/mobinyousefi-cs?tab=repositories">
+      <img src="https://custom-icon-badges.demolab.com/badge/Forks-2-orange?logo=fork&logoColor=white" alt="Total Forks">
+    </a>
+  </p>
+
+  <p>
     <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+    <img src="https://custom-icon-badges.demolab.com/badge/Contributions-200+-green?logo=git-commit&logoColor=white" alt="Total Contributions">
+    <img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?logo=code&logoColor=white" alt="Hireable Status">
+    <img src="https://custom-icon-badges.demolab.com/badge/Member-Since%202023-lightgrey?logo=calendar&logoColor=white" alt="Member Since">
   </p>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
