@@ -49,32 +49,22 @@
 
 <div align="center">
   
-  ### 🚀 GitHub Performance
-  
   <table>
     <tr>
       <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" />
-        <br>
-        <strong>📊 Overall Stats</strong>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical" />
       </td>
       <td width="50%" align="center">
-        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical&hide_border=false" />
-        <br>
-        <strong>🔥 Streak Stats</strong>
+        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical" />
       </td>
     </tr>
     
     <tr>
       <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=donut&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,procfile,shell" />
-        <br>
-        <strong>📊 Languages Donut</strong>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=donut&theme=radical" />
       </td>
       <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,procfile,shell" />
-        <br>
-        <strong>👨‍💻 Top Languages</strong>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical" />
       </td>
     </tr>
   </table>
