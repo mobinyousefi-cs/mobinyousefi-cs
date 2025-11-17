@@ -84,4 +84,21 @@ I’m passionate about simulation and optimization—I love designing efficient 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinyousefi-cs&theme=react)
 
 
+<div align="center">
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=nafiul-afk&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" />
+</div>
+<div align="center">
+  <img height="200em" src="https://streak-stats.demolab.com?user=nafiul-afk&show_icons=true&theme=highcontrast&hide_border=false&count_private=true&include_all_commits=true)](https://git.io/streak-stats)" />
+</div>
+<div align="center">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul-afk&layout=compact&theme=dark&hide_border=false" />
+  </div>
+<div align="center">  
+  
+![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiul-afk&theme=dark)
+
+![SUM](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobinyousefi-cs&theme=dark)
+</div>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
