@@ -94,7 +94,15 @@
   
 </div>
 
-
+<div align="center">
+  
+  <h2>⭐ GitHub Hall of Fame</h2>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
+  
+  <p><i>Collecting stars one commit at a time! ✨</i></p>
+  
+</div>
 
 
 ## 🏅 Achievements & Certifications
