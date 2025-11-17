@@ -50,32 +50,32 @@
 
 <div align="center">
   
+  ### 🚀 GitHub Performance
+  
   <table>
     <tr>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" />
+      <td width="50%" align="center">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&hide=issues" />
+        <br>
+        <strong>📊 Overall Stats</strong>
       </td>
-      <td>
-        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=highcontrast&hide_border=false" />
+      <td width="50%" align="center">
+        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical&hide_border=false&currStreakLabel=FFFFFF&fire=FF0000" />
+        <br>
+        <strong>🔥 Streak Stats</strong>
       </td>
     </tr>
-  </table>
-  
-</div>
-
-<div align="center">
-  
-  <table>
+    
     <tr>
       <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" />
+        <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=radical" />
         <br>
-        <strong>GitHub Stats</strong>
+        <strong>📁 Repository Distribution</strong>
       </td>
       <td width="50%" align="center">
-        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical&hide_border=false&currStreakLabel=FFFFFF" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=8&hide=html,css,scss,less,blade,dockerfile,procfile,shell&card_width=400" />
         <br>
-        <strong>Contribution Streak</strong>
+        <strong>👨‍💻 Language Usage</strong>
       </td>
     </tr>
   </table>
