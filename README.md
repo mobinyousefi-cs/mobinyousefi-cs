@@ -1,17 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mobin%20Yousefi&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F72C&center=true&vCenter=true&width=435&lines=Researcher;Data+Visualization+Expert;Machine+Learning+Engineer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
-  
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/mobinyousefi-cs?style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/mobinyousefi-cs?style=for-the-badge&logo=github&label=Stars" />
-  <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?style=for-the-badge&logo=person" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/mobinyousefi-cs?style=flat-square&label=Followers&logo=github" />
@@ -20,20 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&style=flat-square&label=Views" />
   <img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?style=flat-square&logo=person" />
 </p>
-
-<div style="border: 1px solid #444; padding: 15px; border-radius: 10px; width: fit-content;">
-
-<img src="https://img.shields.io/github/followers/mobinyousefi-cs?style=for-the-badge&label=Followers&logo=github" />
-<img src="https://img.shields.io/github/stars/mobinyousefi-cs?style=for-the-badge&label=Stars&logo=github" />
-<img src="https://img.shields.io/badge/Public%20Repos-11-blue?style=for-the-badge&logo=github" />
-<br/>
-<img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&style=for-the-badge&label=Profile%20Views" />
-<img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?style=for-the-badge&logo=person" />
-
-</div>
-
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
