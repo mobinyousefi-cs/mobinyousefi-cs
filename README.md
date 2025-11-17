@@ -83,6 +83,20 @@
   
 </div>
 
+<div align="center">
+  
+  <h2>🎯 Achievement Unlocked!</h2>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=2&column=5&rank=-C,-B" />
+  
+  <br>
+  <em>Leveling up through code and contributions! 🚀</em>
+  
+</div>
+
+
+
+
 ## 🏅 Achievements & Certifications
 
 - 🤖 **Machine Learning for Beginners** - SoloLearn [[Link]](#)
