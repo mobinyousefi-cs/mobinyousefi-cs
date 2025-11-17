@@ -30,11 +30,15 @@
 - **Machine Learning & Deep Learning**
 - **Data Analysis**
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🌟 Notable Projects
 - **Task Scheduling Optimization:** Designed and implemented advanced metaheuristic algorithms to improve efficiency and resource allocation in fog-cloud computing environments.
 - **Metaheuristic Algorithm Enhancement:** Developed customized versions of the Equilibrium Optimizer Algorithm (EO), Gravitational Search Algorithm (GSA), Particle Swarm Optimization (PSO), and Whale Optimization Algorithm (WOA), achieving higher convergence speed and stability.
 - **Disease Detection Using Machine Learning:** Built ML-based models for dental image analysis and disease classification, supporting intelligent healthcare applications.
 - *(More projects and repositories will be added soon!)*
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Tech Arsenal & Specialties
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -49,6 +53,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="50" height="50"/>&nbsp;
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats & Language Usage & GitHub Trophies
 
@@ -86,6 +92,7 @@
   
 </div>
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏅 Achievements & Certifications
 
@@ -100,6 +107,7 @@
 - 📊 **Internet of Things** - University of Kurdistan [[Link]](#)
 - 🔬 **Tech for everyone** - SoloLearn [[Link]](#)
 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📱 Let's Connect!
 
@@ -118,7 +126,9 @@ I’m passionate about simulation and optimization—I love designing efficient 
 
 
 * I’m comfortable adapting my communication style for different audiences—whether professional, friendly, or creative. Always open to collaboration or research opportunities!*
----
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinyousefi-cs&theme=react)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
