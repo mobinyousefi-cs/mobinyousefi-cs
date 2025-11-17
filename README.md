@@ -75,9 +75,9 @@
 
 <div align="center">
   
-  ### 🏆 GitHub Trophies
+  ## 🎯 All Possible Trophies
   
-  <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=false&margin-w=5&margin-h=5&row=3&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true&margin-w=3&margin-h=3&row=4&column=8" />
   
 </div>
 
