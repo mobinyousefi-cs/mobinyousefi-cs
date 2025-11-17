@@ -95,7 +95,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏅 Achievements & Certifications
-
 - 🤖 **Machine Learning for Beginners** - SoloLearn [[Link]](#)
 - 🤖 **Prompt Engineering** - SoloLearn [[Link]](#)
 - 🧠 **Introduction to LLMs** - SoloLearn [[Link]](#)
@@ -106,6 +105,7 @@
 - 💻 **Git, Github, GitLab** - FaraDars [[Link]](#)
 - 📊 **Internet of Things** - University of Kurdistan [[Link]](#)
 - 🔬 **Tech for everyone** - SoloLearn [[Link]](#)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
