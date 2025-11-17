@@ -5,8 +5,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/mobinyousefi-cs?label=Followers&style=social" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/mobinyousefi-cs?label=Stars&style=social" alt="GitHub Stars" />
-    <img src="https://img.shields.io/badge/Stars-%E2%AD%90%20120%20stars-yellow" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/mobinyousefi-cs?style=for-the-badge&color=yellow" alt="GitHub Stars" />
   </p>
   
   ![Followers](https://img.shields.io/github/followers/mobinyousefi-cs?style=for-the-badge&color=blue)
