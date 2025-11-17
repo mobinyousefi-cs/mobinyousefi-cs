@@ -4,15 +4,13 @@
   
 
 <p align="center">
-  <!-- Followers (داینامیک) -->
+
   <a href="https://github.com/mobinyousefi-cs?tab=followers">
     <img
       src="https://img.shields.io/github/followers/mobinyousefi-cs?style=for-the-badge&logo=github&label=Followers"
       alt="GitHub Followers"
     />
   </a>
-
-  <!-- Total Stars روی همه ریپوها (داینامیک، تا ۲۰۰ ریپو) -->
   <a href="https://github.com/mobinyousefi-cs?tab=repositories">
     <img
       src="https://img.shields.io/github/stars/mobinyousefi-cs?style=for-the-badge&logo=github&label=Total%20Stars"
@@ -22,13 +20,11 @@
 </p>
 
 <p align="center">
-  <!-- Profile views (داینامیک از komarev) -->
+
   <img
     src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&label=👀%20Profile%20Views&color=0e75b6&style=flat-square"
     alt="Profile Views"
   />
-
-  <!-- Hireable (استاتیک – خودت مشخص می‌کنی) -->
   <img
     src="https://custom-icon-badges.demolab.com/badge/%F0%9F%92%BC%20Hireable-Yes-brightgreen?logo=code&logoColor=white"
     alt="Hireable"
