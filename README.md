@@ -9,12 +9,13 @@
   <img src="https://img.shields.io/badge/Public%20Repos-121-blue?style=flat-square&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&style=flat-square&label=Views" />
   <img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?style=flat-square&logo=person" />
-</p>
-
-<div align="right">
   <a href="https://wakatime.com/@c2eea5ba-3079-4fa5-8d83-15f10e89cc66">
     <img src="https://wakatime.com/badge/user/c2eea5ba-3079-4fa5-8d83-15f10e89cc66.svg?color=178600" alt="wakatime" />
   </a>
+</p>
+
+<div align="right">
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
