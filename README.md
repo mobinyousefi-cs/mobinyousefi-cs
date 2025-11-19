@@ -9,16 +9,7 @@
   <img src="https://img.shields.io/badge/Public%20Repos-121-blue?style=flat-square&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&style=flat-square&label=Views" />
   <img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?style=flat-square&logo=person" />
-  <a href="https://wakatime.com/@a102ff98-7a4c-4228-8d8b-aa84881dfd46">
-  <img src="https://wakatime.com/badge/user/a102ff98-7a4c-4228-8d8b-aa84881dfd46.svg" alt="Total time coded since Nov 19 2025" />
-  </a>
-
-[![wakatime](https://wakatime.com/badge/user/a102ff98-7a4c-4228-8d8b-aa84881dfd46.svg)](https://wakatime.com/@a102ff98-7a4c-4228-8d8b-aa84881dfd46)
-
-
 </p>
-[![wakatime](https://wakatime.com/badge/user/a102ff98-7a4c-4228-8d8b-aa84881dfd46.svg)](https://wakatime.com/@a102ff98-7a4c-4228-8d8b-aa84881dfd46)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 </div>
@@ -122,7 +113,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram)]([YOUR_TELEGRAM_URL](https://t.me/MobinYousefiGit))
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox)](www.mobinyousefi.ir)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:mobinyousefi.cs@gmail.com)
-
+[![wakatime](https://wakatime.com/badge/user/a102ff98-7a4c-4228-8d8b-aa84881dfd46.svg)](https://wakatime.com/@a102ff98-7a4c-4228-8d8b-aa84881dfd46)
 **📍 Based in:** Tehran, Iran
 
 
