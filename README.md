@@ -129,4 +129,6 @@ I’m passionate about simulation and optimization—I love designing efficient 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinyousefi-cs&theme=react)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobinyousefi-cs&show_icons=true&locale=en&layout=compact&theme=dark" alt="iamapuneet" /></p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
