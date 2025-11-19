@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/github/stars/mobinyousefi-cs?style=flat-square&label=Stars&logo=github" />
   <img src="https://img.shields.io/badge/Public%20Repos-121-blue?style=flat-square&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&style=flat-square&label=Views" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?style=flat-square&logo=person" />
   <a href="https://wakatime.com/@a102ff98-7a4c-4228-8d8b-aa84881dfd46"><img src="https://wakatime.com/badge/user/a102ff98-7a4c-4228-8d8b-aa84881dfd46.svg" alt="Total time coded since Nov 19 2025" /></a>
+    <img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?style=flat-square&logo=person" />
 </p>
 
 
