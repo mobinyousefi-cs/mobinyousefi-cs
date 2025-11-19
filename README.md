@@ -11,6 +11,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?style=flat-square&logo=person" />
   
 [![wakatime](https://wakatime.com/badge/user/a102ff98-7a4c-4228-8d8b-aa84881dfd46.svg)](https://wakatime.com/@a102ff98-7a4c-4228-8d8b-aa84881dfd46)
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
