@@ -10,7 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=mobinyousefi-cs&style=flat-square&label=Views" />
   <img src="https://custom-icon-badges.demolab.com/badge/Hireable-Yes-brightgreen?style=flat-square&logo=person" />
   
-[![wakatime](https://wakatime.com/badge/user/a102ff98-7a4c-4228-8d8b-aa84881dfd46.svg)](https://wakatime.com/@a102ff98-7a4c-4228-8d8b-aa84881dfd46)
+<a 
+  href="https://wakatime.com/@a102ff98-7a4c-4228-8d8b-aa84881dfd46">
+  <img src="https://wakatime.com/badge/user/a102ff98-7a4c-4228-8d8b-aa84881dfd46.svg" alt="Total time coded since Nov 19 2025" />
+  </a>
 
 </p>
 
