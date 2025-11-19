@@ -103,7 +103,7 @@
 - 💻 **Git, Github, GitLab** - FaraDars [[Link]](#)
 - 📊 **Internet of Things** - University of Kurdistan [[Link]](#)
 - 🔬 **Tech for everyone** - SoloLearn [[Link]](#)
-- **Organizational Behavior** - Maktabkhooneh [Link][https://www.maktabkhooneh.org/certificates/MK-RW1FF2/]
+- **Organizational Behavior** - Maktabkhooneh [[Link]][https://www.maktabkhooneh.org/certificates/MK-RW1FF2/]
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
