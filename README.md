@@ -40,11 +40,16 @@
 
 ### 🛠️ Tech Arsenal & Specialties
 <div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=python&perline=10" />
 </div>
 <div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-
+<img src="https://skillicons.dev/icons?i=java,matlab&perline=10" />
+</div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,html,prolog&perline=10" />
+</div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,matlab,html,css,latex,prolog&perline=10" />
 </div>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
