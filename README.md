@@ -50,7 +50,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" title="Prolog" alt="Prolog" width="50" height="50"/>&nbsp;
 </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,matlab,html,css,latex,prolog&perline=10" />
+<img src="https://skillicons.dev/icons?i=css,latex,linux,git&perline=10" />
 </div>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
@@ -70,7 +70,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,c,matlab,html,css,latex,prolog&perline=10" />
 </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,pycharm,tensorflow,pytorch,fastapi,django,wordpress&perline=10" />
+<img src="https://skillicons.dev/icons?i=github,vscode,pycharm,tensorflow,pytorch,fastapi,django,wordpress&perline=10" />
 </div>
 
 
