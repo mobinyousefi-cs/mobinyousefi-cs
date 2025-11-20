@@ -52,11 +52,16 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=css,latex,linux,git&perline=10" />
 </div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=github,vscode,pycharm,tensorflow,pytorch&perline=10" />
+</div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,django,wordpress&perline=10" />
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
+</div>
+
+
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
@@ -64,11 +69,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="50" height="50"/>&nbsp;
 
-
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,matlab,html,css,latex,prolog&perline=10" />
-</div>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=github,vscode,pycharm,tensorflow,pytorch,fastapi,django,wordpress&perline=10" />
 </div>
