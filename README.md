@@ -53,7 +53,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="50" height="50"/>&nbsp;
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,matlab,html,css,jupyter&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,java,c,matlab,html,css,latex&perline=10" />
 </div>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,pycharm,tensorflow,pytorch,fastapi,django&perline=10" />
