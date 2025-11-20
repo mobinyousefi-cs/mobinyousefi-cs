@@ -56,7 +56,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,c,matlab,html,css,latex,prolog&perline=10" />
 </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,pycharm,tensorflow,pytorch,fastapi,django&perline=10" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,pycharm,tensorflow,pytorch,fastapi,django,wordpress&perline=10" />
 </div>
 
 
