@@ -56,7 +56,7 @@
 <img src="https://skillicons.dev/icons?i=github,vscode,pycharm,tensorflow,pytorch&perline=10" />
 </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,django,wordpress,pandas,numpynotebook&perline=10" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,wordpress,pandas,numpy,notebook&perline=10" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
