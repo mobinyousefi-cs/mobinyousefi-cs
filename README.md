@@ -137,7 +137,7 @@ I’m passionate about simulation and optimization—I love designing efficient 
 
 * I’m comfortable adapting my communication style for different audiences—whether professional, friendly, or creative. Always open to collaboration or research opportunities!*
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinyousefi-cs&theme=react)
 
