@@ -145,5 +145,8 @@ I’m passionate about simulation and optimization—I love designing efficient 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mobinyousefi-cs&theme=react)
 
 <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical" />
+<img height="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=radical" />
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
