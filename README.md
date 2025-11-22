@@ -64,8 +64,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
 </div>
-<div>
-  <img src="https://skillicons.dev/icons?i=anaconda,cpp,gitlab,notion,opencv,raspberrypi&perline=10" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=anaconda,cpp,gitlab,notion,opencv,raspberrypi,visualstudio&perline=10" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
