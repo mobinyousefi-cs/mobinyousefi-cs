@@ -31,7 +31,7 @@
 - **Fog Computing**
 - **Network Slicing**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🌟 Notable Projects
 - **Task Scheduling Optimization:** Designed and implemented advanced metaheuristic algorithms to improve efficiency and resource allocation in fog-cloud computing environments.
@@ -103,7 +103,7 @@
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 
 ## 🏅 Achievements & Certifications
@@ -120,7 +120,7 @@
 - **Organizational Behavior** - Maktabkhooneh [[Link]](https://www.maktabkhooneh.org/certificates/MK-RW1FF2/)
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### 📱 Let's Connect!
 
