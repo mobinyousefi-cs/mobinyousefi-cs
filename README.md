@@ -174,7 +174,7 @@ Current research interests include metaheuristic optimization, enhanced Equilibr
 
 ## 🏅 Selected Certifications
 
-- AI, data, and automation-focused certifications from SoloLearn and related learning platforms.
+- AI, machine learning, prompt engineering, LLM, and data-focused certifications from SoloLearn.
 - Internet of Things - University of Kurdistan.
 - Git, GitHub, GitLab - FaraDars.
 - Organizational Behavior - Maktabkhooneh: [Certificate](https://www.maktabkhooneh.org/certificates/MK-RW1FF2/)
