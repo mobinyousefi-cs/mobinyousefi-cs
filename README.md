@@ -70,39 +70,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats & Language Usage & GitHub Trophies
+## 📊 GitHub Stats, Language Usage & Highlights
 
 <div align="center">
 
-  <!-- جدول اول -->
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mobinyousefi-cs&show_icons=true&theme=radical" />
-      </td>
-      <td width="50%" align="center">
-        <img height="200em" src="https://streak-stats.demolab.com?user=mobinyousefi-cs&theme=radical" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- جدول دوم -->
-  <table>
-    <tr>
-      <td width="40%" align="center">
-        <img height="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=radical" />
-      </td>
-      <td width="60%" align="center">
-        <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinyousefi-cs&layout=compact&theme=radical&langs_count=20" />
-      </td>
-    </tr>
-  </table>
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobinyousefi-cs&theme=radical" alt="GitHub profile details" />
+  <br><br>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mobinyousefi-cs&theme=radical" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mobinyousefi-cs&theme=radical&utcOffset=3.5" alt="GitHub productive time" />
+  <br><br>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mobinyousefi-cs&theme=radical" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mobinyousefi-cs&theme=radical" alt="Most committed languages" />
 
 </div>  
+
 <div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=mobinyousefi-cs&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
-  
+
+  <img src="https://img.shields.io/github/followers/mobinyousefi-cs?style=for-the-badge&label=Followers&logo=github&color=ff69b4" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/mobinyousefi-cs?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars&logo=github&color=ff69b4" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Public%20Repos-170-ff69b4?style=for-the-badge&logo=github" alt="Public repositories" />
+
 </div>
 
 ---
