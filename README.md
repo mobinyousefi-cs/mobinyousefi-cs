@@ -64,9 +64,9 @@ Desktop AI chat application supporting multiple AI providers and a modern local 
 
 ### Optimization & Research
 
-#### 🧠 C-E2O
+#### 🧠 C-E2O & A-E2O
 
-Experimental work on an enhanced Equilibrium Optimizer focused on metaheuristic optimization, exploration and exploitation balance, stagnation handling, convergence behavior, and optimization experiments.
+Experimental works on an enhanced Equilibrium Optimizer focused on metaheuristic optimization, exploration and exploitation balance, stagnation handling, convergence behavior, and optimization experiments.
 
 `Python` `MATLAB` `Equilibrium Optimizer` `Metaheuristics` `Computational Intelligence`
 
